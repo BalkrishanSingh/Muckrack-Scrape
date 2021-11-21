@@ -1,8 +1,6 @@
 import csv
 import requests
 import concurrent.futures
-from datetime import datetime
-from time import sleep
 from bs4 import BeautifulSoup
 links = []
 first_names = ['FirstName']
